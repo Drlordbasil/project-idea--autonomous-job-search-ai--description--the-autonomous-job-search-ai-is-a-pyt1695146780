@@ -1,0 +1,13 @@
+The package requirements for this Python program are as follows:
+- requests
+- bs4
+- pandas
+- nltk
+- sklearn
+- spacy
+- json
+
+You can install these packages using pip by running the following command:
+```
+pip install requests bs4 pandas nltk sklearn spacy
+```
